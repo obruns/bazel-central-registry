@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/exiv2/exiv2//archive/refs/tags/v0.28.5.tar.gz",
+    "integrity": "sha256-4WcfdE43moe6DJhGF0Bv34wK0MWU5RIvUlsvt8KNOU0=",
+    "strip_prefix": "exiv2-0.28.5",
+    "patch_strip": 1,
+    "patches": {
+        "add-minimal-support-for-BzlMod.patch": "sha256-Z930ZD2a+Fc0cyIq1XyXk+S/NZgk2uFTeO7JryM1u4E="
+    }
+
+}
